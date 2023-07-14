@@ -1,0 +1,57 @@
+{
+  "homepage": "http://Sakshi202037.github.io/Quizania",
+  "name": "quizania",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/react": "^13.4.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "dotenv": "^16.3.1",
+    "firebase": "^9.19.1",
+    "i": "^0.3.7",
+    "npm": "^9.8.0",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "primereact": "^9.2.2",
+    "react": "^18.2.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.9.0",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0",
+    "recharts": "^2.5.0",
+    "slick-carousel": "^1.8.1",
+    "stream": "^0.0.2",
+    "sweetalert2": "^11.7.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
