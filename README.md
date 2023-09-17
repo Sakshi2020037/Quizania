@@ -41,7 +41,7 @@ Quizania also offers other sections with various features, including:
 # Downloading the Project
 To access the project, follow these steps:
 
-1. Go to https://github.com/osho-20/Quizania.
+1. Go to [https://github.com/Sakshi2020037/Quizania](https://github.com/Sakshi2020037/Quizania).
 2. Clone the project to your local system.
 3. Navigate to the directory named "QUIZ".
 4. Type "npm start" in your console to start the project.
